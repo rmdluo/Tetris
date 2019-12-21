@@ -1,6 +1,6 @@
 # Tetris
 
-One of my friends from school needs this for a school project, so I made it. It is tetris with mostly correct rotation (which most people get wrong online). It is very basic and most closely resembles the NES version of Tetris. It has the hold box and next pieces preview as well.
+One of my friends from school needs this for a school project, so I made it. It is tetris with mostly correct rotation (which most people get wrong online). It is very basic and most closely resembles the NES version of Tetris. It has the hold box and next pieces preview as well. Version 1 is for people who don't want extra features like the hold box and the piece preview and version 2 is for the people who do want it.
 
 ### Prerequisites
 
